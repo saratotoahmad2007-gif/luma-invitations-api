@@ -1,0 +1,15 @@
+name = "luma-invitations-api"
+main = "worker/index.ts"
+compatibility_date = "2026-01-15"
+
+[vars]
+ENVIRONMENT = "production"
+CORS_ORIGIN = "*"
+
+# Create free Cloudflare D1 database:
+# npx wrangler d1 create luma_db
+# npx wrangler d1 execute luma_db --remote --file=worker/schema.sql
+[[d1_databases]]
+binding = "DB"
+database_name = "luma_db"
+database_id = "b51c8689-2379-46f4-9c54-1794af7c0634"

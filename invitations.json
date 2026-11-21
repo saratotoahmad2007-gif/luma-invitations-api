@@ -1,0 +1,330 @@
+[
+  {
+    "id": "inv-layla-omar",
+    "slug": "layla-omar",
+    "templateId": "alabaster-editorial",
+    "openingStyle": "couple",
+    "animationPreset": "envelope",
+    "animationSpeed": "measured",
+    "backgroundStyle": "linen",
+    "backgroundImage": "/src/assets/images/luma_hero_editorial_1795252469413.jpg",
+    "scrimOpacity": 0.72,
+    "englishFont": "Cormorant Garamond",
+    "arabicFont": "Amiri",
+    "palette": {
+      "background": "#F8F6F2",
+      "surface": "#FFFFFF",
+      "text": "#1A1816",
+      "accent": "#8A6D46",
+      "border": "#E5DFD5"
+    },
+    "brideName": {
+      "en": "Sara",
+      "ar": "سارة"
+    },
+    "groomName": {
+      "en": "Ismail",
+      "ar": "إسماعيل"
+    },
+    "familiesLine": {
+      "en": "Families",
+      "ar": "عائلتا "
+    },
+    "announcementHeadline": {
+      "en": "Two Lives, One Quiet Horizon",
+      "ar": "روحان تجتمعان على أفق واحد"
+    },
+    "blessingQuote": {
+      "en": "And among His signs is that He created for you mates from among yourselves, that you may dwell in tranquility with them.",
+      "ar": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً"
+    },
+    "storyTitle": {
+      "en": "From an Autumn Gallery in Amman to a Courtyard Under Olive Trees",
+      "ar": "من معرض خريفي في عمّان إلى فناء تحت أشجار الزيتون"
+    },
+    "storyBody": {
+      "en": "Four years after a quiet conversation over architectural monographs, we invite our dearest family and friends to gather at dusk as we begin our marriage together.",
+      "ar": "بعد أربع سنوات من لقاء عابر حول كتب العمارة والفنون، يسعدنا أن ندعو أهلنا وأحبّاءنا الأعزاء لمشاركتنا لحظة البداية تحت سماء المساء."
+    },
+    "eventDate": "2026-10-16",
+    "eventTime": "18:30",
+    "rsvpDeadline": "2026-09-25",
+    "dressCode": {
+      "en": "Formal Evening Attire · Warm Neutrals & Black Tie",
+      "ar": "ملابس رسمية مسائية · ألوان هادئة وبدلات رسمية"
+    },
+    "venueName": {
+      "en": "Dar Al-Zaytoun Limestone Courtyard",
+      "ar": "دار الزيتون · الفناء الحجري"
+    },
+    "venueAddress": {
+      "en": "Al-Abdali Boulevard, Pavilion IV, Amman",
+      "ar": "البوليفارد، الجناح الرابع، عمّان"
+    },
+    "venueNotes": {
+      "en": "Private valet reception begins at 18:00 at the North Colonnade Gate.",
+      "ar": "خدمة صف السيارات الخاصة متوفرة ابتداءً من الساعة ٦:٠٠ مساءً عند البوابة الشمالية."
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Al+Abdali+Boulevard+Amman",
+    "schedule": [
+      {
+        "id": "sch-1",
+        "time": "18:30",
+        "title": {
+          "en": "Courtyard Welcome & Arabic Coffee",
+          "ar": "الاستقبال والقهوة العربية"
+        },
+        "location": {
+          "en": "Reflecting Pool Terrace",
+          "ar": "شرفة الحوض العاكس"
+        },
+        "note": {
+          "en": "Acoustic oud ensemble at sunset",
+          "ar": "عزف عود هادئ عند الغروب"
+        }
+      },
+      {
+        "id": "sch-2",
+        "time": "19:45",
+        "title": {
+          "en": "Katb Al-Kitab & Blessing",
+          "ar": "عقد القران والمباركة"
+        },
+        "location": {
+          "en": "The Limestone Arch",
+          "ar": "القوس الحجري"
+        },
+        "note": {
+          "en": "Intimate family ceremony",
+          "ar": "مراسم عائلية هادئة"
+        }
+      },
+      {
+        "id": "sch-3",
+        "time": "20:45",
+        "title": {
+          "en": "Candlelit Reception Dinner",
+          "ar": "مأدبة العشاء على ضوء الشموع"
+        },
+        "location": {
+          "en": "West Colonnade Hall",
+          "ar": "قاعة الرواق الغربي"
+        },
+        "note": {
+          "en": "Seasonal Levantine tasting menu",
+          "ar": "قائمة عشاء شامية مختارة"
+        }
+      }
+    ],
+    "published": true,
+    "updatedAt": "2026-11-21T09:25:43.722Z"
+  },
+  {
+    "id": "inv-nour-karim",
+    "slug": "nour-karim",
+    "templateId": "nocturne-obsidian",
+    "openingStyle": "families",
+    "animationPreset": "curtain",
+    "animationSpeed": "serene",
+    "backgroundStyle": "radial",
+    "backgroundImage": "/src/assets/images/evening_gala_table_1795252468139.jpg",
+    "scrimOpacity": 0.78,
+    "englishFont": "Bodoni Moda",
+    "arabicFont": "Amiri",
+    "palette": {
+      "background": "#0D0D10",
+      "surface": "#16161B",
+      "text": "#F5F1EA",
+      "accent": "#D4AF7A",
+      "border": "#2B2823"
+    },
+    "brideName": {
+      "en": "Nour El-Din",
+      "ar": "نور الدين"
+    },
+    "groomName": {
+      "en": "Karim Al-Sayed",
+      "ar": "كريم السيّد"
+    },
+    "familiesLine": {
+      "en": "Mr. & Mrs. Tariq El-Din and Dr. & Mrs. Bassam Al-Sayed",
+      "ar": "السيد طارق الدين وحرمه والدكتور بسام السيّد وحرمه"
+    },
+    "announcementHeadline": {
+      "en": "An Evening Celebration of Union",
+      "ar": "أمسية احتفالية بمناسبة الزفاف"
+    },
+    "blessingQuote": {
+      "en": "Together in grace, gratitude, and enduring light.",
+      "ar": "بارك الله لهما وبارك عليهما وجمع بينهما في خير."
+    },
+    "storyTitle": {
+      "en": "A Midnight Gathering by the Nile Pavilion",
+      "ar": "أمسية مسائية على ضفاف النيل"
+    },
+    "storyBody": {
+      "en": "With immense joy, both families request the honor of your presence for an evening of classical strings, candlelight, and celebration.",
+      "ar": "بكل محبة وسرور، تتشرف العائلتان بدعوتكم لحضور حفل زفاف ابنيهما في أمسية تجمع الأهل والأصدقاء."
+    },
+    "eventDate": "2026-11-27",
+    "eventTime": "20:00",
+    "rsvpDeadline": "2026-11-10",
+    "dressCode": {
+      "en": "Black Tie Optional · Midnight & Champagne Tones",
+      "ar": "لباس رسمي مسائي · الأسود والذهبي الهادئ"
+    },
+    "venueName": {
+      "en": "The Grand Conservatory Pavilion",
+      "ar": "جناح الكونسرفتوار الكبير"
+    },
+    "venueAddress": {
+      "en": "Zamalek Corniche, Gezira Island, Cairo",
+      "ar": "كورنيش الزمالك، جزيرة الزمالك، القاهرة"
+    },
+    "venueNotes": {
+      "en": "Chauffeur drop-off available directly at the Ivory Pavilion entrance.",
+      "ar": "يتوفر إنزال خاص أمام المدخل الرئيسي للجناح."
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zamalek+Cairo",
+    "schedule": [
+      {
+        "id": "sch-nk-1",
+        "time": "20:00",
+        "title": {
+          "en": "Champagne & String Quartet",
+          "ar": "الاستقبال ومقطوعات وترية"
+        },
+        "location": {
+          "en": "Obsidian Foyer",
+          "ar": "الردهة الرئيسية"
+        },
+        "note": {
+          "en": "Doors open promptly at 20:00",
+          "ar": "تفتح الأبواب تمام الثامنة مساءً"
+        }
+      },
+      {
+        "id": "sch-nk-2",
+        "time": "21:15",
+        "title": {
+          "en": "Grand Entrance & Zaffa",
+          "ar": "الزفة ودخول العروسين"
+        },
+        "location": {
+          "en": "Crystal Ballroom",
+          "ar": "القاعة الكبرى"
+        },
+        "note": {
+          "en": "Dinner served at 21:45",
+          "ar": "يُقدّم العشاء الساعة ٩:٤٥ مساءً"
+        }
+      }
+    ],
+    "published": true,
+    "updatedAt": "2026-11-19T09:15:00Z"
+  },
+  {
+    "id": "inv-yasmin-tariq",
+    "slug": "yasmin-tariq",
+    "templateId": "levantine-garden",
+    "openingStyle": "announcement",
+    "animationPreset": "arch",
+    "animationSpeed": "measured",
+    "backgroundStyle": "photo",
+    "backgroundImage": "/src/assets/images/floral_botanical_still_1795252468138.jpg",
+    "scrimOpacity": 0.82,
+    "englishFont": "Fraunces",
+    "arabicFont": "Noto Naskh Arabic",
+    "palette": {
+      "background": "#F2F4EF",
+      "surface": "#FAFBF8",
+      "text": "#1F2A21",
+      "accent": "#8B5A3C",
+      "border": "#DCE2D6"
+    },
+    "brideName": {
+      "en": "Yasmin Haddad",
+      "ar": "ياسمين حداد"
+    },
+    "groomName": {
+      "en": "Tariq Al-Khouri",
+      "ar": "طارق الخوري"
+    },
+    "familiesLine": {
+      "en": "The Haddad & Al-Khouri Families",
+      "ar": "عائلتا حداد والخوري"
+    },
+    "announcementHeadline": {
+      "en": "We Are Getting Married Among the Olive Groves",
+      "ar": "نحتفل بزفافنا بين بساتين الزيتون"
+    },
+    "blessingQuote": {
+      "en": "Love is patient, quiet, and deeply rooted like an ancient olive tree.",
+      "ar": "المحبة تتأنى وترفق، وتنمو كشجرة زيتون راسخة الجذور."
+    },
+    "storyTitle": {
+      "en": "A Sunlit Afternoon Celebration",
+      "ar": "احتفال نهار دافئ في البستان"
+    },
+    "storyBody": {
+      "en": "Join us in the mountain air for long wooden tables, garden florals, and an unhurried evening beneath the stars.",
+      "ar": "شاركونا هواء الجبل العليل وموائد البستان المزدانة بالورود البيضاء وأمسية دافئة تحت النجوم."
+    },
+    "eventDate": "2026-09-12",
+    "eventTime": "17:00",
+    "rsvpDeadline": "2026-08-28",
+    "dressCode": {
+      "en": "Garden Linen & Soft Earth Tones",
+      "ar": "أزياء كتان نهارية بألوان ترابية هادئة"
+    },
+    "venueName": {
+      "en": "Batroun Stone Villa & Orchard",
+      "ar": "فيلا البترون الحجرية والبستان"
+    },
+    "venueAddress": {
+      "en": "Old Coast Road, Batroun, Lebanon",
+      "ar": "الطريق البحري القديم، البترون، لبنان"
+    },
+    "venueNotes": {
+      "en": "Flat-soled shoes recommended for cobblestone courtyard pathways.",
+      "ar": "ننصح بارتداء أحذية مريحة تناسب الممرات الحجرية في الحديقة."
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Batroun+Lebanon",
+    "schedule": [
+      {
+        "id": "sch-yt-1",
+        "time": "17:00",
+        "title": {
+          "en": "Garden Ceremony",
+          "ar": "مراسم الزفاف في الحديقة"
+        },
+        "location": {
+          "en": "South Olive Terrace",
+          "ar": "شرفة الزيتون الجنوبية"
+        },
+        "note": {
+          "en": "Seated under shaded linen canopies",
+          "ar": "مقاعد مظللة بالكتان الأبيض"
+        }
+      },
+      {
+        "id": "sch-yt-2",
+        "time": "19:00",
+        "title": {
+          "en": "Long Table Supper & Music",
+          "ar": "مأدبة البستان والموسيقى"
+        },
+        "location": {
+          "en": "Courtyard Lawn",
+          "ar": "مرج الفناء"
+        },
+        "note": {
+          "en": "Farm-to-table coastal cuisine",
+          "ar": "ضيافة ساحلية محلية"
+        }
+      }
+    ],
+    "published": true,
+    "updatedAt": "2026-11-15T18:00:00Z"
+  }
+]

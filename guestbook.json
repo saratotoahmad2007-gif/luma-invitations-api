@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gb-1",
+    "invitationId": "inv-layla-omar",
+    "authorName": "نور الخالد",
+    "relationship": {
+      "en": "Cousin of the Bride",
+      "ar": "ابنة خالة العروس"
+    },
+    "message": "ألف مبروك ليلى وعمر، أسأل الله أن يبارك لكما ويمد حياتكما بالسعادة والمودة والسكينة.",
+    "language": "ar",
+    "approved": true,
+    "createdAt": "2026-11-18T12:05:00Z"
+  },
+  {
+    "id": "gb-2",
+    "invitationId": "inv-layla-omar",
+    "authorName": "Celine Dupont",
+    "relationship": {
+      "en": "Studio Colleague",
+      "ar": "زميلة المكتب المعماري"
+    },
+    "message": "Wishing you both a lifetime of sunlit mornings, thoughtful architecture, and joyful evenings together in Amman.",
+    "language": "en",
+    "approved": true,
+    "createdAt": "2026-11-17T20:40:00Z"
+  },
+  {
+    "id": "gb-3",
+    "invitationId": "inv-nour-karim",
+    "authorName": "Hana Shoukry",
+    "relationship": {
+      "en": "Lifelong Friend",
+      "ar": "صديقة الطفولة"
+    },
+    "message": "Counting the days until we celebrate under the lights of Zamalek. May your home always be filled with warmth.",
+    "language": "en",
+    "approved": true,
+    "createdAt": "2026-11-19T10:15:00Z"
+  }
+]
